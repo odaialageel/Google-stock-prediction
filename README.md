@@ -7,7 +7,7 @@ In the past two years stock market performed much higher than what investors and
 
 - Python 3.7
 - Numby, pandas, matplotlip
-- Scikit-learn
+- tensorflow
 
 
 ```bash
